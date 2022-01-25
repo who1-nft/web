@@ -8,10 +8,11 @@ import {
   Button,
   Offcanvas,
 } from 'react-bootstrap';
-
 import ROUTES from '../../constants/route';
+import User from '../user/User';
 
 export default function Header() {
+  const user = null;
   return (
     <Navbar collapseOnSelect expand='lg' bg='light'>
       <Container className='p-3'>
@@ -46,12 +47,7 @@ export default function Header() {
             <Nav.Link href={ROUTES.MYONE}>MyOne</Nav.Link>
             <Nav.Link href={ROUTES.REQUEST}>NFT</Nav.Link>
           </Nav>
-          <Nav className='me-auto'>
-            <Nav.Link href='#deets'>User</Nav.Link>
-            <Nav.Link eventKey={2} href='#memes'>
-              Wallet
-            </Nav.Link>
-          </Nav>
+          <User />
         </Navbar.Collapse>
       </Container>
     </Navbar>
