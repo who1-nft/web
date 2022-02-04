@@ -4,6 +4,8 @@ import Footer from '../components/common/Footer';
 import Header from '../components/common/Header';
 import styles from '../styles/Home.module.css';
 
+import CssBaseline from "@mui/material/CssBaseline";
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles/globals.css';
 
@@ -17,7 +19,8 @@ function MyApp({ Component, pageProps }) {
       </Head>
       <div className='d-flex flex-column min-vh-100'>
         <Header />
-        <Component {...pageProps} />
+          <CssBaseline />
+          <Component {...pageProps} />
       </div>
     </div>
   );
