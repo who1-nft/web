@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+    "title": "Lizard-1",
+    "contents": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+  },
+  {
+    "id": 2,
+    "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+    "title": "Lizard-2",
+    "contents": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+  },
+  {
+    "id": 3,
+    "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+    "title": "Lizard-3",
+    "contents": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+  },
+  {
+    "id": 4,
+    "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+    "title": "Lizard-4",
+    "contents": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+  },
+  {
+    "id": 5,
+    "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+    "title": "Lizard-5",
+    "contents": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+  },
+  {
+    "id": 6,
+    "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+    "title": "Lizard-6",
+    "contents": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+  },
+  {
+    "id": 7,
+    "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+    "title": "Lizard-7",
+    "contents": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+  }
+]
